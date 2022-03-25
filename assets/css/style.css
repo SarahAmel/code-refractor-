@@ -188,7 +188,7 @@ article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 } */
-
+/* changed footer from a class to semantic form  */
 footer {
     padding: 30px;
     clear: both;
