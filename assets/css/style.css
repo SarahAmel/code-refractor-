@@ -86,22 +86,22 @@ aside {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
+/* .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 .benefit-cost {
     margin-bottom: 32px;
-    color: #ffffff;
-}
+    color: #ffffff; */
+/* changed the grouped benefits h3 into a semantic form and labeled it section  */
 
-.benefit-lead h3,.benefit-brand h3,.benefit-cost h3 {
+section h3 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -116,7 +116,7 @@ aside {
     text-align: center; */
 
 /* grouped together to condense  information  */
-.benefit-lead img,.benefit-brand img,.benefit-cost img  {
+section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
